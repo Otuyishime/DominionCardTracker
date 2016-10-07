@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionCardTracker.Models"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionCardTracker.DataLayer", "DominionCardTracker.DataLayer\DominionCardTracker.DataLayer.csproj", "{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionCardTracker.IntegrationTests", "DominionCardTracker.IntegrationTests\DominionCardTracker.IntegrationTests.csproj", "{FF91B7DD-DB6B-45E1-8DA3-A8E376367A8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF91B7DD-DB6B-45E1-8DA3-A8E376367A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF91B7DD-DB6B-45E1-8DA3-A8E376367A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF91B7DD-DB6B-45E1-8DA3-A8E376367A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF91B7DD-DB6B-45E1-8DA3-A8E376367A8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionCardTracker.Models", "DominionCardTracker.Models\DominionCardTracker.Models.csproj", "{0C2AE99B-9943-4D24-910B-B15C3B9603A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominionCardTracker.DataLayer", "DominionCardTracker.DataLayer\DominionCardTracker.DataLayer.csproj", "{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0C2AE99B-9943-4D24-910B-B15C3B9603A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C2AE99B-9943-4D24-910B-B15C3B9603A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C2AE99B-9943-4D24-910B-B15C3B9603A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F5FDF1-E16B-4055-94E5-B50C6CDB4750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

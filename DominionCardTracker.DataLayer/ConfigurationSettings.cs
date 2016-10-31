@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Configuration;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DominionCardTracker.DataLayer
 {
-    static class ConfigurationSettings      // Let's load the class a single time
+    public class ConfigurationSettings      // Let's load the class a single time
     {
         private static string _connectionString;
 
